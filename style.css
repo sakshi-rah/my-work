@@ -22,5 +22,5 @@
 }
 .service-card:hover{
 transform: scale(1.05);
-transition: all 0.5s 0.1s ease ;
+transition: all 0.5s  linear ;
 }
