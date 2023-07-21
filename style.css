@@ -46,7 +46,6 @@ transition: all 0.5s  linear ;
 
     position: fixed;
     bottom: 35px;
-    right: 40px;
     border-radius: 50%;
     font-weight: bold;
     text-decoration: none;
