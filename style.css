@@ -45,8 +45,8 @@ transition: all 0.5s  linear ;
 .top-btn {
 
     position: fixed;
-    bottom: 30px;
-    right: 25px;
+    bottom: 35px;
+    right: 40px;
     border-radius: 50%;
     font-weight: bold;
     text-decoration: none;
