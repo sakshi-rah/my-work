@@ -1,3 +1,3 @@
 # My Portfolio 
 
-![portfolio](./Images/portfolio.png)
+![portfolio](portfolio.png)
