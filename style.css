@@ -20,3 +20,7 @@
     transform: scale(1.1);
     transition: 0.3s linear;
 }
+.service-card:hover{
+transform: scale(1.05);
+transition: all 0.5s 0.1s ease ;
+}
