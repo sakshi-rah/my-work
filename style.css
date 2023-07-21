@@ -1,0 +1,11 @@
+.left-box h1{
+ font-size: 3.2em;
+ 
+}
+.left-box{
+    font-family: 'Dancing Script', cursive;
+}
+.navbar-nav li:hover{
+    transform: scale(1.1);
+    transition: 0.3s linear;
+}
