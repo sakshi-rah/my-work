@@ -1,2 +1,2 @@
 # My Portfolio 
-![portfolio](.portfolio.png)
+![portfolio](portfolio.png)
